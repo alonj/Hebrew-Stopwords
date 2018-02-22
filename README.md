@@ -19,3 +19,7 @@ for word in text:
   if word not in stopwords:
     print(word)
 ```
+
+## Authors
+
+* [alon j](https://github.com/alonj)
